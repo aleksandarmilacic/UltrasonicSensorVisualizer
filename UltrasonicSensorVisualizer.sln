@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UltrasonicSensorVisualizer", "UltrasonicSensorVisualizer\UltrasonicSensorVisualizer.csproj", "{8E87E5EB-AB7A-4DBE-9797-DBB740A13ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E87E5EB-AB7A-4DBE-9797-DBB740A13ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E87E5EB-AB7A-4DBE-9797-DBB740A13ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E87E5EB-AB7A-4DBE-9797-DBB740A13ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E87E5EB-AB7A-4DBE-9797-DBB740A13ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8C071FD-2CED-407D-B880-9414044FD0EF}
+	EndGlobalSection
+EndGlobal
